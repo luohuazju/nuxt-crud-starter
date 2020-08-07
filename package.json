@@ -1,0 +1,41 @@
+{
+  "name": "nuxt-crud-starter",
+  "version": "1.0.0",
+  "description": "Verify the nuxtjs crud and deployment",
+  "author": "Yiyi Kang <luohuazju@gmail.com>",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.12.1",
+    "bootstrap-vue": "^2.16.0",
+    "lodash": "^4.17.19",
+    "nuxt": "^2.14.1",
+    "nuxt-i18n": "^6.13.7",
+    "vee-validate": "^3.3.8",
+    "velocity-animate": "^1.5.2",
+    "vue-moment": "^4.1.0",
+    "vue-notification": "^1.3.20"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "coffee-loader": "^1.0.0",
+    "coffeescript": "^2.5.1",
+    "eslint": "^7.6.0",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "json-server": "^0.16.1",
+    "jsonwebtoken": "^8.5.1",
+    "node-sass": "^4.14.1",
+    "postcss-preset-env": "^6.7.0",
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^9.0.3"
+  }
+}
