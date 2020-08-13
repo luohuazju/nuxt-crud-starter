@@ -1,0 +1,12 @@
+{
+	"users": [
+		{
+			"id": 1, 
+			"first_name": "Yiyi", 
+			"last_name": "Kang", 
+			"full_name": "Yiyi Kang", 
+			"email": "yiyikangrachel@gmail.com", 
+			"password": "test1234"
+		}
+	]
+}
